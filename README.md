@@ -10,8 +10,10 @@
 * opencv-python: 4.5.2.52
 
 ## 実行方法
-* ライブラリのインストール\
-'pip install -r requirements.txt'
+* ライブラリのインストール
+
+```bash
+pip install -r requirements.txt
 ※ tkinterは環境によって別途インストールが必要です
 
 * 実行\
