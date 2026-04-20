@@ -2,7 +2,6 @@
 
 ## 概要
   * 入力画像から2枚のシェア画像を作成する
-  * 
   
 ## version
 * python: 3.7.6
@@ -10,10 +9,8 @@
 * opencv-python: 4.5.2.52
 
 ## 実行方法
-* ライブラリのインストール
-
-```bash
-pip install -r requirements.txt
+* ライブラリのインストール\
+'pip install -r requirements.txt'  
 ※ tkinterは環境によって別途インストールが必要です
 
 * 実行\
