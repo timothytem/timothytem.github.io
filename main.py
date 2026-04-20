@@ -16,8 +16,6 @@ if __name__ == "__main__":
 
     iDir = os.path.expanduser("~")
 
-    #iDir = os.path.abspath(os.path.dirname(__file__))
-
     messagebox.showinfo('画像読込','処理画像を選択してください')
 
     # ファイル選択ダイアログ
